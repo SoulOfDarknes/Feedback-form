@@ -1,0 +1,12 @@
+.map {
+  width: 50vw;
+  height: 90vh;
+  border-radius: 50%;
+  overflow: hidden;
+};
+
+  @media (max-width: 1024px) {
+    .map {
+      display: none;
+    }
+  };
