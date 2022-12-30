@@ -1,4 +1,4 @@
-Web site online  --->  https://react-feedback-form.herokuapp.com/  <----
+Web site online  --->  https://sparkling-pavlova-608862.netlify.app/  <----
 
 ![196256963-18640488-bfa4-4c92-bbea-8ee64e9e75b8](https://user-images.githubusercontent.com/89462761/196257904-b7c1f8cc-f293-4b6d-9545-23f5ed875cd5.png)
 ![196257050-697fc636-52a5-483c-ab02-f0648682db76](https://user-images.githubusercontent.com/89462761/196258256-e6a63b27-b01a-4c40-86ef-839ef5226103.png)
